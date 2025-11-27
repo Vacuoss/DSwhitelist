@@ -1,0 +1,16 @@
+name: DSwhitelist
+main: me.avacuoss.DSwhitelist
+version: 1.2
+api-version: 1.20
+author: avacuoss
+
+commands:
+  dswl:
+    description: DSwhitelist local command wrapper
+    usage: /dswl reload
+    permission: dswl.admin
+
+permissions:
+  dswl.admin:
+    description: Allows managing DSwhitelist plugin
+    default: op

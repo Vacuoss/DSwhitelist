@@ -1,0 +1,8 @@
+target/
+*.class
+*.jar
+
+# Do not commit secrets
+config.yml
+*.token
+*.secret
