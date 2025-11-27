@@ -1,0 +1,10 @@
+# Discord bot token (keep secret)
+discord-token: "YOUR BOT TOKEN"
+
+# Bot settings
+discord-guild-id: ""      # optional: restrict to one guild only
+use-global-commands: true # true => global commands, false => guild commands only
+
+# Whitelist behavior
+auto-save-whitelist: true
+log-console: true
