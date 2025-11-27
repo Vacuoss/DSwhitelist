@@ -26,6 +26,7 @@ Place DSwhitelist.jar into your plugins/ folder
 Start the server to generate config.yml
 
 Open config.yml and insert your Discord bot token:
+
 <img width="315" height="48" alt="image" src="https://github.com/user-attachments/assets/d5017a50-8af3-4d15-8e7e-736b5efa776f" />
 
 Technical Overview:
