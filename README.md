@@ -4,6 +4,7 @@ DSwhitelist connects your server to Discord and allows administrators to add pla
 
 Features:
 Commands in Discrod:
+
 Use /panel to send an embed with the Add Account button 
 
 /wl add <player> - command to add player 
