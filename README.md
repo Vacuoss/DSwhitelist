@@ -1,6 +1,7 @@
 Plugin to Discord-driven whitelist manager for Spigot/Paper Minecraft servers
 
 DSwhitelist connects your server to Discord and allows administrators to add players to the whitelist directly through slash commands, buttons, and modal dialogs
+https://modrinth.com/plugin/dswhitelist
 
 Features:
 Commands in Discrod:
